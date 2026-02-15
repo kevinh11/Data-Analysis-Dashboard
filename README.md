@@ -8,3 +8,5 @@ Simple dashboard to monitor key KPIs of the dataset, with Yearly, Quarterly, and
 - amount of unique customers
 
 followed by dissection of KPIs by Category, Brand, and Time.
+
+The full dashboard can be viewed in PowerBI by downloading the Portfolio.pbix file, and analysis of the dataset can be viewed in the analysis.ipynb file.
